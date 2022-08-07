@@ -1,0 +1,1345 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    margin: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0px;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+ }
+ .wrapper{
+    width: 100%;
+ }
+ body{
+    
+    height: 100%;
+ }
+  .part1{
+    width: 100%;
+    height: 40%;
+    background-image: url('NG-en-20220801-popsignuptwoweeks-perspective_alpha_website_medium.jpg');
+ }
+ header{
+  background-color: rgba(0, 0, 0,);
+ } 
+ .netflix{
+    width: 100px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+ }
+ .signin{
+    width: 48px;
+    position: relative;
+    left: 190px;
+    bottom: 20px;
+    background-color: rgba(255, 0, 0, 0.801);
+    color: white;
+    border: none;
+    border-radius: 2px;
+    padding: 3px;
+ }
+
+ .signin:hover{
+    background-color: red;
+ }
+ .unlimited{
+    font-size: 25px;
+    font-family: arial narrow;
+    color: white;
+    position: relative;
+    left:90px;
+    top: 20px;
+ }
+ .wacth{
+    color: white ;
+    font-size: 18px;
+    font-family: arial narrow;
+    position: relative;
+    left: 80px;
+    top: 30px;
+ }
+ .ready1{
+    color: white ;
+    font-size: 17px;
+    font-family: arial narrow;
+    position: relative;
+    left: 70px;
+    top: 35px; 
+ }
+ .email1{
+    position: relative;
+    left: 45px;
+    top: 45px;
+    width: 70%;
+    padding: 8px;
+ }
+ .get1{
+    position: relative;
+    right: 150px;
+    top: 90px;
+    background-color: red;
+    padding: 8px;
+    border: none;
+    border-radius: 3px;
+    width: 100px;
+ }
+ .get1:hover{
+    background-color: rgba(255, 0, 0, 0.726);
+ }
+ a{
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+ }
+ .hr1{
+    color: gray;
+    background-color: gray;
+    width: 100%;
+    height: 2px;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin: 0px;
+ }
+ .part2{
+    background-color: black;
+    height: 35%;
+
+ }
+ .video{
+    width: 152px;
+    position: relative;
+    left:52px;
+    top: 80px;
+    
+ }
+ .transparent{
+    width: 180px;
+    position: relative;
+    left: 100px;
+    top: 50px;
+ }
+ .enjoy{
+    color: white;
+    font-size: 25px;
+    position: relative;
+    left: 70px;
+    bottom:200px;
+ }
+ .smart{
+    color: white;
+    font-size: 15px;
+    position: relative;
+    left: 40px;
+    bottom: 190px;
+ }
+ .hr1{
+    color: gray;
+    background-color: gray;
+    width: 100%;
+    height: 2px;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin: 0px;
+ }
+ .part3{
+    background-color: black;
+    height:40%;
+ }
+ .foot{
+    background-color: rgba(0, 0, 0, 0.89);
+    color: black;
+    width: 100%;
+    height: 40px;
+    position: relative;
+    top:32px;
+    border-top-style: initial;
+ }
+  .phone2{
+    width: 92px;
+    height:168px;
+    position: relative;
+    left: 20px;
+    top: 162px;
+    border: none;
+    border-radius:10px;
+ }
+ .phone{
+    width: 100px;
+    position: relative;
+    top: 162px;
+    left: 120px;
+    height: 170px;
+ }
+ .download{
+    color: white;
+    font-size: 25px;
+    position: relative;
+    bottom: 150px;
+    left: 70px;
+ }
+ .save{
+    color: white;
+    font-size: 15px;
+    position: relative;
+    bottom: 140px;
+    left: 70px;
+ }
+ .hr1{
+    color: gray;
+    background-color: gray;
+    width: 100%;
+    height: 2px;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin: 0px;
+ }
+ .part4{
+    background-color: black;
+    height:15%;
+    width: 100%;
+ }
+ .every{
+    color: white;
+    font-size: 25px;
+    position: relative;
+    top: 20px;
+    left: 70px;
+ }
+ .stream{
+    color: white;
+    font-size: 15px;
+    position: relative;
+    top: 35px;
+    left: 60px;
+ }
+ .hr1{
+    color: gray;
+    background-color: gray;
+    width: 100%;
+    height: 2px;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin: 0px;
+ }
+ .part5{
+    background-color: black;
+    height: 40%;
+ }
+ .net{
+    width: 200px;
+    position: relative;
+    top: 150px;
+    left: 80px;
+ }
+ .profile{
+    color: white;
+    font-size: 25px;
+    position: relative;
+    bottom:125px ;
+    left: 80px;
+    
+ }
+ .send{
+    color: white;
+    font-size: 15px;
+    position: relative;
+    bottom: 115px;
+    left: 70px;
+ }
+ .hr1{
+    color: gray;
+    background-color: gray;
+    width: 100%;
+    height: 3px;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin: 0px;
+ }
+ .part6{
+    background-color: black;
+    width: 100%;
+    height: 55%;
+ }
+ .summary{
+    margin: 0px;
+    text-align: center;
+    width: 100%;
+}
+.summary1{
+  width:340px ;
+  background-color:rgba(255, 255, 255, 0.089);
+  margin: 10px;
+  padding: 8px;
+  font-size: 12px;
+  position: relative;
+  left: 5px;
+  top: 10px;
+  font-family:arial narrow;
+  color: rgba(255, 255, 255, 0.849);
+}
+.summary2{
+ width:334px ;
+ background-color:rgba(255, 255, 255, 0.089);
+ margin: 10px;
+ padding: 11px;
+ font-size: 12px;
+ position: relative;
+ left: 5px;
+ top: 10px;
+ font-family:arial narrow;
+ color: rgba(255, 255, 255, 0.753);
+}
+
+.summary3{
+  width:340px ;
+  background-color:rgba(255, 255, 255, 0.089);
+  margin: 10px;
+  padding: 8px;
+  font-size: 12px;
+  position: relative;
+  left: 5px;
+  top: 10px;
+  font-family:arial narrow;
+  color: rgba(255, 255, 255, 0.753);
+}
+
+.summary4{
+  width:340px ;
+  background-color:rgba(255, 255, 255, 0.089);
+  margin: 10px;
+  padding: 8px;
+  font-size: 12px;
+  position: relative;
+  left: 5px;
+  top: 10px;
+  font-family:arial narrow;
+  color: rgba(255, 255, 255, 0.767);
+}
+    
+.summary5{
+  width:340px ;
+  background-color:rgba(255, 255, 255, 0.089);
+  margin: 10px;
+  padding: 8px;
+  font-size: 12px;
+  position: relative;
+  left: 5px;
+  top: 10px;
+  font-family:arial narrow;
+  color: rgba(255, 255, 255, 0.74);
+}
+.summary6{
+  width:340px ;
+  background-color:rgba(255, 255, 255, 0.089);
+  margin: 10px;
+  padding: 8px;
+  font-size: 12px;
+  position: relative;
+  left: 5px;
+  top: 10px;
+  font-family:arial narrow;
+  color: rgba(255, 255, 255, 0.705);
+}
+.ready{
+  color: white;  
+  font-size: 14px;
+  position: relative;                           
+  left: 70px;
+  top: 14px;
+}
+.email{
+ width: 250px;
+ position: relative;
+ left: 60px;
+ top: 28px;
+ padding: 5px;
+
+}
+.get{
+ width:100;
+ position: relative;
+ right:125px;
+ top:65px;
+ padding: 5px;
+ background-color: red;
+ border: none;
+ border-radius: 3px;
+}
+.hr1{
+    color: gray;
+    background-color: gray;
+    width: 100%;
+    height: 2px;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin: 0px;
+ }
+ .part7{
+    background-color: black;
+    height: 20%;
+ }
+.general{
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.527);
+    padding: 50px;
+    margin: 50px;
+    text-align: left;
+    position: relative;
+    right: 40px;
+}
+#question{
+    position: relative;
+    right: 50px;
+    padding: 0px;
+    font-size: 16px;
+}
+#faq{
+    position: relative;
+    top: 50px;
+    padding: 50px;
+}
+#help{
+    position: relative;
+    padding:100px;
+}
+#terms{
+    position: relative;
+    padding: 0px;
+}
+#privacy{
+    position: relative;
+    padding: 100px;
+}
+#cookie{
+    position: relative;
+    padding: 0px;
+}
+#corporate{
+    position: relative;
+    padding: 50px;
+}
+@media only screen and (min-width:768px) {
+   
+*{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    margin: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0px;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+ }
+ .wrapper{
+    width: 100%;
+ }
+ body{
+    
+    height: 100%;
+ }
+  .part1{
+    width: 100%;
+    height: 65%;
+    background-image: url('NG-en-20220801-popsignuptwoweeks-perspective_alpha_website_medium.jpg');
+ }
+ header{
+  background-color: rgba(0, 0, 0,);
+ } 
+ .netflix{
+    width: 150px;
+    position: relative;
+    top: 10px;
+    left: 20px;
+ }
+ .signin{
+    width: 110px;
+    position: relative;
+    left: 450px;
+    bottom: 30px;
+    background-color: rgba(255, 0, 0, 0.801);
+    color: white;
+    border: none;
+    border-radius: 2px;
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+ }
+
+ .signin:hover{
+    background-color: red;
+ }
+ .unlimited{
+    font-size: 60px;
+    font-family: arial narrow;
+    color: white;
+    position: relative;
+    left: 120px;
+    top: 40px;
+ }
+ .wacth{
+    color: white ;
+    font-size: 35px;
+    font-family: arial narrow;
+    position: relative;
+    left: 120px;
+    top: 45px;
+ }
+ .ready1{
+    color: white ;
+    font-size: 30px;
+    font-family: arial narrow;
+    position: relative;
+    left: 120px;
+    top: 55px; 
+ }
+ .email1{
+    position: relative;
+    left: 90px;
+    top: 90px;
+    width: 65%;
+    padding: 25px;
+ }
+ .get1{
+    position: relative;
+    right: 230px;
+    top: 170px;
+    background-color: red;
+    padding: 20px;
+    border: none;
+    border-radius: 3px;
+    width: 160px;
+ }
+ .get1:hover{
+    background-color: rgba(255, 0, 0, 0.726);
+ }
+ a{
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+ }
+ .hr1{
+    color: gray;
+    background-color: gray;
+    width: 100%;
+    height: 2px;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin: 0px;
+ }
+ .part2{
+    background-color: black;
+    height: 30%;
+
+ }
+ .video{
+    width: 190px;
+    position: relative;
+    left:150px;
+    top: 78px;
+    
+ }
+ .transparent{
+    width: 250px;
+    position: relative;
+    left: 270px;
+    top:10px;
+ }
+ .enjoy{
+    color: white;
+    font-size: 30px;
+    position: relative;
+    left: 240px;
+    bottom:260px;
+ }
+ .smart{
+    color: white;
+    font-size: 18px;
+    position: relative;
+    left: 180px;
+    bottom: 250px;
+ }
+ .hr1{
+    color: gray;
+    background-color: gray;
+    width: 100%;
+    height: 2px;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin: 0px;
+ }
+ .part3{
+    background-color: black;
+    height:40%;
+ }
+ .foot{
+    background-color: rgba(0, 0, 0, 0.89);
+    color: black;
+    width: 100%;
+    height: 50px;
+    position: relative;
+    top:50px;
+    border-top-style: initial;
+ }
+  .phone2{
+    width: 92px;
+    height:201px;
+    position: relative;
+    left: 220px;
+    top: 200px;
+    border: none;
+    border-radius:10px;
+ }
+ .phone{
+    width: 100px;
+    position: relative;
+    top: 200px;
+    left: 320px;
+    height:205px;
+ }
+ .download{
+    color: white;
+    font-size: 25px;
+    position: relative;
+    bottom: 180px;
+    left: 200px;
+ }
+ .save{
+    color: white;
+    font-size: 18px;
+    position: relative;
+    bottom: 150px;
+    left: 200px;
+ }
+ .hr1{
+    color: gray;
+    background-color: gray;
+    width: 100%;
+    height: 2px;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin: 0px;
+ }
+ .part4{
+    background-color: black;
+    height:18%;
+    width: 100%;
+ }
+ .every{
+    color: white;
+    font-size: 35px;
+    position: relative;
+    top: 20px;
+    left: 200px;
+ }
+ .stream{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    top: 35px;
+    left: 200px;
+ }
+ .hr1{
+    color: gray;
+    background-color: gray;
+    width: 100%;
+    height: 2px;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin: 0px;
+ }
+ .part5{
+    background-color: black;
+    height: 40%;
+ }
+ .net{
+    width: 300px;
+    position: relative;
+    top: 180px;
+    left: 230px;
+ }
+ .profile{
+    color: white;
+    font-size: 30px;
+    position: relative;
+    bottom:190px ;
+    left: 250px;
+    
+ }
+ .send{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    bottom: 180px;
+    left: 200px;
+ }
+ .hr1{
+    color: gray;
+    background-color: gray;
+    width: 100%;
+    height: 3px;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin: 0px;
+ }
+ .part6{
+    background-color: black;
+    width: 100%;
+    height: 60%;
+ }
+ 
+ .summary{
+    margin: 0px;
+    text-align: center;
+}
+.summary1{
+  width:700px ;
+  background-color:rgba(255, 255, 255, 0.089);
+  margin: 12px;
+  padding: 15px;
+  font-size: 12px;
+  position: relative;
+  left: 8px;
+  top: 10px;
+  font-family:arial narrow;
+  color: rgba(255, 255, 255, 0.418);
+}
+.summary2{
+ width:700px ;
+ background-color:rgba(255, 255, 255, 0.089);
+ margin: 12px;
+ padding: 15px;
+ font-size: 12px;
+ position: relative;
+ left: 10px;
+ top: 10px;
+ font-family:arial narrow;
+ color: rgba(255, 255, 255, 0.418);
+}
+
+.summary3{
+  width:700px ;
+  background-color:rgba(255, 255, 255, 0.089);
+  margin: 12px;
+  padding: 15px;
+  font-size: 12px;
+  position: relative;
+  left: 10px;
+  top: 10px;
+  font-family:arial narrow;
+  color: rgba(255, 255, 255, 0.418);
+}
+
+.summary4{
+  width:700px ;
+  background-color:rgba(255, 255, 255, 0.089);
+  margin: 12px;
+  padding: 15px;
+  font-size: 12px;
+  position: relative;
+  left: 10px;
+  top: 10px;
+  font-family:arial narrow;
+  color: rgba(255, 255, 255, 0.418);
+}
+    
+.summary5{
+  width:700px ;
+  background-color:rgba(255, 255, 255, 0.089);
+  margin: 12px;
+  padding: 15px;
+  font-size: 12px;
+  position: relative;
+  left: 10px;
+  top: 10px;
+  font-family:arial narrow;
+  color: rgba(255, 255, 255, 0.418);
+}
+.summary6{
+  width:700px ;
+  background-color:rgba(255, 255, 255, 0.089);
+  margin: 12px;
+  padding: 15px;
+  font-size: 12px;
+  position: relative;
+  left: 10px;
+  top: 10px;
+  font-family:arial narrow;
+  color: rgba(255, 255, 255, 0.418);
+}
+.ready{
+  color: white;  
+  font-size: 19px;
+  position: relative;
+ left: 230px;
+ top: 14px;
+}
+.email{
+ width: 500px;
+ position: relative;
+ left: 130px;
+ top: 35px;
+ padding: 15px;
+ margin: 10;
+
+}
+.get{
+ width:150;
+ position: relative;
+ right:220px;
+ top:100px;
+ padding:15px;
+ background-color: red;
+ border: none;
+ border-radius: 5px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+ }
+.hr1{
+    color: gray;
+    background-color: gray;
+    width: 100%;
+    height: 2px;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin: 0px;
+ }
+ .part7{
+    background-color: black;
+    height: 20%;
+ }
+.general{
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.527);
+    padding: 50px;
+    margin: 50px;
+    text-align: left;
+    position: relative;
+    right: 40px;
+}
+#question{
+    position: relative;
+    right: 50px;
+    padding: 0px;
+    font-size: 16px;
+}
+#faq{
+    position: relative;
+    top: 50px;
+    padding: 50px;
+}
+#help{
+    position: relative;
+    padding:100px;
+}
+#terms{
+    position: relative;
+    padding: 0px;
+}
+#privacy{
+    position: relative;
+    padding: 100px;
+}
+#cookie{
+    position: relative;
+    padding: 0px;
+}
+#corporate{
+    position: relative;
+    padding: 50px;
+} 
+}
+
+@media only screen and (min-width:1000px) {
+   .wrapper{
+        width: 100%;
+
+    }
+    .part1{
+        width: 100%;
+        padding-bottom: 50px;
+        background-image: url('NG-en-20220801-popsignuptwoweeks-perspective_alpha_website_medium.jpg');
+        height: 80%;
+
+    }
+
+    .netflix{
+        width: 12%;
+        position: relative;
+        bottom: 40px;
+        left: 42px;
+    }
+    .signin{
+        position: relative;
+        bottom: 60px;
+        left: 1000px;
+        width: 7%;
+        padding: 15px;
+        border-style: none;
+        border-radius: 5px;
+        background-color: rgba(255, 0, 0, 0.89);
+        color: white;
+    }
+    .signin:hover{
+        background-color: rgba(219, 16, 16, 0.945)
+    }
+    .get1:hover{
+        background-color: rgba(219, 16, 16, 0.945)
+    }
+    a{
+        text-decoration: none;
+        color: white;
+        font-size: 15px;
+    }
+
+    header{
+        background-color: rgba(0, 0, 0, 0.082);
+    }
+    hr{
+        padding: 0px;
+        height:7px;
+        border-width:0;
+        color:gray;
+        background-color:gray;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    
+   
+    .unlimited{
+        font-size: 50px;
+        color: white;
+        font-family:arial narrow ;
+        position: relative;
+        top: 0px;
+        left: 400px;
+
+    }
+    .wacth{
+        font-size: 30px;
+        color: white;
+        position: relative;
+        left: 400px;
+        top: 10px;
+        font-family:arial narrow ;
+        
+    }
+    .ready1{
+        font-size: 25px;
+        color: white;
+        position: relative;
+        top: 20px;
+        left:400px ;
+        font-family:arial narrow;  
+    }
+    .email1{
+        width: 450px;
+        padding: 20px;
+        margin: 10px;
+        position: relative;
+        left: 300px;
+        top: 50px;
+    }
+    .get1{
+        width: 200px;
+        padding: 20px;
+        margin: 10px;
+        position: relative;
+        left: 277px;
+        top: 51px;
+        color: azure;
+        background-color: red;
+        size:0px;
+        border: none;
+    }
+    footer{
+        background-color: black;
+    }
+
+    .part2{
+        background-color: black;
+        width: 100%;
+        height: 70%;
+        border: 5px;
+        border-color: black;
+        padding: 0px;
+        margin: 0px;
+        margin-bottom: 0px;
+        position: relative;
+        bottom: 0px;
+        padding-top:200px;
+
+    }
+    .enjoy{
+        color: white;
+        position: relative;
+        bottom: 500px;
+        left:200px;
+        font-size: 60px;
+        font-family: arial narrow;
+    }
+    .smart{
+        color: white;
+        font-size:26px;
+        position: relative;
+        bottom: 470px;
+        left: 195px;
+        font-family: arial narrow;
+    }
+    .video{
+        width: 350px;
+        position: relative;
+        left:400px;
+        top: 0px;
+        
+     }
+    .transparent{
+        position: relative;
+        left: 750px;
+        top:-260px ;
+        width: 450px;
+    }
+
+    hr{
+        padding: 0px;
+        height:7px;
+        border-width:0;
+        color:gray;
+        background-color:gray;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    hr{
+        padding: 0px;
+        height:7px;
+        border-width:0;
+        color:gray;
+        background-color:gray;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .part3{
+        background-color: black;
+        height: 100%;
+        width: 100%;
+    }
+    .download{
+        color: white;
+        font-size: 55px;
+        font-family: arial narrow;
+        position: relative;
+        left: 700px;
+        bottom: 300px;
+    }
+    .save{
+        color: white;
+        font-size: 30px;
+        font-family: arial narrow;
+        position: relative;
+        left: 700px;
+        bottom: 300px;
+    }
+    .phone{
+        position: relative;
+        left: 255px;
+        top: 60px;
+        width: 250px;
+        height: 70%;
+    }
+    .foot{
+        background-color: black;
+    }
+    .phone2{
+        position: relative;
+        left: 10px;
+        top: 54px;
+        width: 250px;
+        height: 68%; 
+        border-radius: 20px;
+        width: 233px;
+    }
+    .part4{
+        background-color: black;
+        height: 50%;
+        padding-top: 10px;
+        width: 100%;
+    }
+    .every{
+        color: white;
+        font-size: 60px;
+        font-family: arial narrow;
+        position: relative;
+        left: 300px;
+        top: 50px;
+    }
+    .stream{
+        color: white;
+        font-size: 30px;
+        font-family: arial narrow;
+        position: relative;
+        left: 300px;
+        top: 50px;
+    }
+    .hr1{
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding: 0px;
+        height:7px;
+    }
+    .part5{
+        background-color: black;
+        height: 70%;
+        width: 100%;
+    }
+    .profile{
+        color: white;
+        font-size: 50px;
+        font-family:arial narrow;
+        position: relative;
+        left: 700px;
+        bottom: 270px;
+    }
+    .send{
+        color: white;
+        font-family:arial narrow;
+        font-size: 30px;
+        position: relative;
+        left: 700px;
+        bottom: 270px;
+    }
+    .net{
+        width: 500px;
+        position: relative;
+        left: 100px;
+        top: 20px;
+    }
+    .part6{
+        background-color: black;
+        height: 120%;
+        width: 100%;
+        margin-bottom: 0px;
+        margin-top: 0px;
+        position: relative;
+        bottom: 10px;
+    
+    }
+    .summary{
+        margin: 0px;
+    }
+    .summary1{
+        width: 60%;
+        color: white;
+        background-color:rgba(255, 255, 255, 0.089);
+        margin: 10px;
+        padding: 20px;
+        font-size: 30px;
+        position: relative;
+        left: 200px;
+        top: 50px;
+        font-family:arial narrow;
+    }
+    .summary2{
+        width: 60%;
+        color: white;
+        background-color:rgba(255, 255, 255, 0.089);
+        margin: 10px;
+        padding: 20px;
+        font-size: 30px;
+        position: relative;
+        left: 200px;
+        top: 50px;
+        font-family:arial narrow;
+    }
+
+    .summary3{
+        width: 60%;
+        color: white;
+        background-color:rgba(255, 255, 255, 0.089);
+        margin: 10px;
+        padding: 20px;
+        font-size: 30px;
+        position: relative;
+        left: 200px;
+        top: 50px;
+        font-family:arial narrow;
+    }
+    
+    .summary4{
+        width: 60%;
+        color: white;
+        background-color:rgba(255, 255, 255, 0.089);
+        margin: 10px;
+        padding: 20px;
+        font-size: 30px;
+        position: relative;
+        left: 200px;
+        top: 50px;
+        font-family:arial narrow;
+
+    }
+        
+    .summary5{
+        width: 60%;
+        color: white;
+        background-color:rgba(255, 255, 255, 0.089);
+        margin: 10px;
+        padding: 20px;
+        font-size: 30px;
+        position: relative;
+        left: 200px;
+        top: 50px;
+        font-family:arial narrow;
+    }
+    .summary6{
+        width: 60%;
+        color: white;
+        background-color:rgba(255, 255, 255, 0.089);
+        margin: 10px;
+        padding: 20px;
+        font-size: 30px;
+        position: relative;
+        left: 200px;
+        top: 50px;
+        font-family:arial narrow;
+    }
+    .hr1{
+        padding: 0px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        height:7px;
+        border-width:0px;
+        color:gray;
+        background-color:gray;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .ready{
+        font-size: 23px;
+        position: relative;
+        left: 0px;
+        top: 60px;
+    }
+    .email{
+        width: 450px;
+        padding: 20px;
+        margin: 10px;
+        position: relative;
+        left: 300px;
+        top: 100px;
+    }
+    .get{
+        width: 200px;
+        padding: 22px;
+        margin: 10px;
+        position: relative;
+        left: 277px;
+        bottom: 10px;
+        color: azure;
+        background-color: red;
+        size:0px;
+        border: none;
+        top: 100px;
+    }
+    .ready{
+        font-size: 25px;
+        color: white;
+        text-align: center;
+        position: relative;
+        bottom: 0px;
+        font-family:arial narrow; 
+    }  
+    .hr1{
+        padding: 0px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        height:7px;
+        border-width:0px;
+        color:gray;
+        background-color:gray;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .foot2{
+        background-color: black;
+        width: 100%;
+        height: 5%;
+        position: relative;
+        top: 102px;
+    }
+    .part7{
+        background-color: black;
+        height: 40%;
+    }
+
+    .general{
+        font-size: 18px;
+        color: rgba(255, 255, 255, 0.527);
+        padding: 100px;
+        margin: 100px;
+        text-align: center;
+    }
+    .general:hover{
+        text-transform: capitalize;
+        color: white;
+    }
+    #question{
+        position: relative;
+        right: 50px;
+        padding: 0px;
+        font-size: 16px;
+    }
+    #faq{
+        position: relative;
+        top: 60px;
+        padding: 50px;
+    }
+    #help{
+        position: relative;
+        padding:100px;
+    }
+    #terms{
+        position: relative;
+        padding: 0px;
+    }
+    #privacy{
+        position: relative;
+        padding: 100px;
+    }
+    #cookie{
+        position: relative;
+        padding: 0px;
+    }
+    #corporate{
+        position: relative;
+        padding: 50px;
+    }
+
+}
+    

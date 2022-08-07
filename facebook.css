@@ -1,0 +1,330 @@
+
+@media only screen and (max-width: 767px) and (min-width:280px) {
+    .logo{
+    font-size: 50px;
+    color: blue;
+    font-family:Arial ;
+    text-align: center;
+    margin-bottom: 0px;
+
+    position: relative;
+    right: 0px;
+    top: 0px;
+    left: 10px;
+}
+.text{
+    text-align: center;
+    margin-bottom: 0px;
+    position: relative;
+    float:right;
+    bottom: 20px;
+    left: px;
+    right: 40px;
+}
+input{
+    width: 80%;
+    margin: 7px;
+    padding: 10px;
+}
+.login{
+    width: 80%;
+    margin: 15px;
+    padding: 10px;
+    position: relative;
+    bottom: 10px;
+    color:solid black;
+    background-color: rgb(83, 83, 228);
+    border: none;
+    border-radius: 5px;
+}
+.login:hover{
+    background-color: blue;
+}
+.forgot{
+    padding: 10px;
+    margin:5px ;
+    text-decoration: none;
+    position: relative;
+    left:120px ;
+    bottom:20px;
+}
+.create{
+    border:none;
+    background-color: rgb(60, 182, 12);
+    color: solid black;
+    text-decoration: none;
+    padding: 10px;
+    width: 25rem;
+    margin: 80px ;
+    border-radius: 5px;
+}
+.page{
+    position: relative;
+    top:150px ;
+    left:20px ;
+    text-decoration: none;
+}
+}
+@media only screen and (min-width: 768px) and (max-width:1024px) {
+    
+  .logo{
+    font-size: 100px;
+    color:blue;
+  }
+  .text{
+    font-size: 25px;
+    right:170px ;
+  }
+  input{
+    width: 80%;
+    margin-bottom:10px;
+    margin-right:0px;
+    margin-top: 20px;
+    padding: 25px;
+    position: relative;
+    left: 30px;
+}
+.login{
+    width: 80%;
+    margin: 15px;
+    padding: 20px;
+    position: relative;
+    bottom: 10px;
+    left: 50px;
+    color:solid black;
+    background-color: rgb(83, 83, 228);
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.forgot{
+    padding: 10px;
+    margin:5px ;
+    text-decoration: none;
+    position: relative;
+    left:400px ;
+    bottom:3px;
+    max-width: 50px;
+    font-size: 30px;
+}
+.create{
+    border:none;
+    background-color: rgb(60, 182, 12);
+    color: solid black;
+    text-decoration: none;
+    padding: 10px;
+    width: 40rem;
+    margin: 200px ;
+    border-radius: 5px;
+    position: relative;
+    left: 50px;
+    top: 50px;
+    font-size: 25px;
+}
+.page{
+    font-size: 25px;
+    position: relative;
+    left: 80px;
+    top: 200px;
+
+}
+.email{
+    margin-top: 20px;
+}
+.password{
+    margin-bottom:10px;
+
+}
+}
+@media only screen and (min-width: 1024px) and (max-width:1280px) {
+    .logo{
+        font-size: 100px;
+        position: relative;
+        left: 300px;
+
+      }
+      .text{
+        font-size: 25px;
+        position: relative;
+        left:300px ;
+        bottom:100px;
+      }
+      input{
+        width:50%;
+        height: 30px;
+        margin-bottom:10px;
+        margin-right: 50px;
+        padding: 5px;
+        position: relative;
+        left: 260px;
+        bottom: 100px;
+        right: 0px;
+        margin: 0px;
+    
+    }
+    .email{
+        margin-bottom: 10px;
+       
+
+    }
+    .password{
+       
+    }
+    .login{
+        width: 40%;
+        margin: 15px;
+        padding: 20px;
+        position: relative;
+        bottom: 90px;
+        left: 280px;
+        color:solid black;
+        background-color: rgb(83, 83, 228);
+        border: none;
+        border-radius: 5px;
+    }
+    .forgot{
+        padding: 10px;
+        margin:5px ;
+        text-decoration: none;
+        position: relative;
+        left:450px ;
+        bottom:88px;
+        max-width: 50px;
+        font-size: 25px;
+    }
+    .create{
+        border:none;
+        background-color: rgb(60, 182, 12);
+        color: solid black;
+        text-decoration: none;
+        padding: 10px;
+        width: 40rem;
+        margin: 200px ;
+        border-radius: 5px;
+        position: relative;
+        left: 150px;
+        top: 0px;
+        bottom: 100px;
+        font-size: 20px;
+    }
+    .page{
+        font-size: 25px;
+        position: relative;
+        left: 250px;
+        top: 100px;
+    }
+}   
+@media only screen and (min-width:1000px) {
+    body{
+        background-color: rgba(0, 0, 255, 0.068);
+    }
+    .form{
+        background-color: white;
+        width: 380px;
+        height: 390px;
+        position: relative;
+        left: 800px;
+        bottom: 150px;
+        border: solid rgba(128, 128, 128, 0.219);
+    }  
+    .logo{
+        font-size: 60px;
+        position: relative;
+        left: 250px;
+        top: 100px;
+        color: blue;
+        font-family: arial;
+      }
+      .text{
+        font-size: 25px;
+        position: relative;
+        left:200px;
+        top:80px;
+        bottom:100px;
+        font-family: arial;
+      }
+      input{
+        width:90%;
+        height: 30px;
+        margin-bottom:10px;
+        margin-right: 50px;
+        padding: 10px;
+        position: relative;
+        left: 10px;
+        top: 30px;
+        right: 0px;
+        margin: 0px;
+        border-radius: 5px;
+        border: 1px solid rgba(128, 128, 128, 0.377);
+    
+    }
+    .email{
+        margin-bottom: 10px;
+       
+
+    }
+    .password{
+       
+    }
+    .login{
+        width: 95%;
+        margin: 15px;
+        padding: 15px;
+        position: relative;
+        top: 30px;
+        left: 0px;
+        color:solid black;
+        background-color: rgba(0, 0, 255, 0.658);
+        border: none;
+        border-radius: 5px;
+    }
+    
+    .forgot{
+        padding: 10px;
+        margin:5px ;
+        text-decoration: none;
+        position: relative;
+        left:110px ;
+        top:10px;
+        max-width: 50px;
+        font-size: 17px;
+    }
+    hr{
+        width: 80%;
+        position: relative;
+        top: 20px;
+    }
+    .create{
+        border:none;
+        background-color: rgb(60, 182, 12);
+        color: solid black;
+        text-decoration: none;
+        padding: 10px;
+        width: 100rem;
+        margin: 50px ;
+        border-radius: 5px;
+        position: relative;
+        left: 50px;
+        top: 70px;
+        bottom: 100px;
+        font-size: 20px;
+    }
+    .page{
+        font-size: 15px;
+        position: relative;
+        left: 830px;
+        bottom: 150px;
+        
+    }
+    .a{
+        text-decoration: none;
+        color: black;
+        font-size:15px;
+        font-family: arial black;
+    }
+    .a:hover{
+        text-decoration-line: underline;
+    }
+} 
+ 
+ 
