@@ -1,0 +1,535 @@
+@media only screen and (min-width:390px) {
+   .netflix{
+    width: 35%;
+    position: relative;
+    top: 50px;
+    right: 150px;
+}
+.butt{
+    border: none;
+    width:330px;
+    padding: 15px;
+    margin: 5px;
+    background-color: red;
+    border-radius: 5px;
+    position:relative;
+    left: 18px;
+    top: 10px;
+}
+.submit{
+    border: none;
+    background-color: red;
+    color: white;
+    font-size:13px;
+}
+body{
+   background-color: black;
+    height:0%;
+    width: 100%;
+}
+form{
+    background-color: black;
+    position: relative;
+    top: 0px;
+}
+.signin{
+   font-family: arial narrow;
+   color: white;
+   position: relative;
+   left: 20px;
+   top: -20px;
+   font-size: 30px;
+}
+.phone{
+    padding: 15px;
+    margin: 10px;
+    width:330px;
+    position:relative;
+    left: 10px;
+    top: -10px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(128, 128, 128, 0.445);
+}
+.password{
+    padding: 15px;
+    margin: 10px;
+    width:330px;
+    position:relative;
+    left: 10px;
+    top: -20px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(128, 128, 128, 0.445);
+}
+.checkbox{
+    background-color: white;
+
+}
+h6{
+    width: 80px;
+    color: rgba(255, 255, 255, 0.527);
+    font-size: 13px;
+    position: relative;
+    left: 270px;
+    top: -20px;
+}
+.remember{
+    color: rgba(230, 225, 225, 0.521);
+    position:relative;
+    left: 20px;
+    top:30px;
+}
+h5{
+    width: 200px;
+    position: relative;
+    left: 50px;
+    top:20px;
+    color:white;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.527);
+
+}
+a{
+    text-decoration: none;
+    position: relative;
+    left: 185px;
+    top: -38px;
+    font-size:20px;
+    color: white;
+}
+a:hover{
+    text-decoration-line: underline;
+}
+.all{
+  
+}
+h4{
+    color: rgba(255, 255, 255, 0.404);
+    font-size:16px ;
+    position: relative;
+    top: -20px;
+    left: 10px;
+}
+.learn{
+    font-size: 16px;
+    color: blue;
+    position: relative;
+    left: 175px;
+    top: -59px;
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.719);
+    color: rgba(0, 0, 0, 0.719);
+    width: 1350px;
+    height: 40%;
+    margin-top: 150px;
+    margin-bottom: 0px;
+    padding: 0px;
+    position: relative;
+    top: -60px;
+    right: 80px;
+}
+.general{
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.527);
+    padding: 50px;
+    margin: 10px;
+    position: relative;
+    right:100px ;
+}
+#question{
+    position: relative;
+    right: 50px;
+    padding: 0px;
+    font-size: 16px;
+}
+#faq{
+    position: relative;
+    top: 50px;
+    padding: 50px;
+}
+#help{
+    position: relative;
+    padding:100px;
+}
+#terms{
+    position: relative;
+    padding: 0px;
+}
+#privacy{
+    position: relative;
+    padding: 100px;
+}
+#cookie{
+    position: relative;
+    padding: 0px;
+}
+#corporate{
+    position: relative;
+    padding: 50px;
+}
+
+  
+}
+@media only screen and (min-width:768px) {
+    .netflix{
+        width: 25%;
+        position: relative;
+        top: 80px;
+        right: 190px;
+    }
+    .butt{
+        border: none;
+        width:400px;
+        padding: 10px;
+        margin: 10px;
+        background-color: red;
+        border-radius: 5px;
+        position:relative;
+        left:30px;
+        top: 20px;
+    }
+    .submit{
+        border: none;
+        background-color: red;
+        color: white;
+        font-size: 20px;
+    }
+    body{
+        background-image: url('NG-en-20220801-popsignuptwoweeks-perspective_alpha_website_medium.jpg'); 
+        background-repeat: no-repeat; 
+        height: 50%;
+    }
+    form{
+        background-color: black;
+        position: relative;
+        top: 0px;
+    }
+    .signin{
+       font-family: arial black;
+       color: white;
+       position: relative;
+       left: 20px;
+       top: 10px;
+       font-size: 30px;
+    }
+    .phone{
+        padding: 20px;
+        margin: 10px;
+        width:400px;
+        position:relative;
+        left:30px;
+        top: 0px;
+        border-radius: 5px;
+        border: none;
+        background-color: rgba(128, 128, 128, 0.445);
+    }
+    .password{
+        padding: 20px;
+        margin: 10px;
+        width:400px;
+        position:relative;
+        left: 30px;
+        top: 0px;
+        border-radius: 5px;
+        border: none;
+        background-color: rgba(128, 128, 128, 0.445);
+    }
+    .checkbox{
+        background-color: white;
+    
+    }
+    h6{
+        width: 120px;
+        color: rgba(255, 255, 255, 0.527);
+        font-size: 15px;
+        position: relative;
+        left: 320px;
+        top: -42px;
+        font-size: 20px;
+    }
+    .remember{
+        color: rgba(230, 225, 225, 0.521);
+        position:relative;
+        left: 40px;
+        top: 30px;
+        font-size: 22px;
+    }
+    h5{
+        width: 300px;
+        position: relative;
+        left: 70px;
+        top:-30px;
+        color:white;
+        font-size: 25px;
+        color: rgba(255, 255, 255, 0.527);
+    
+    }
+    a{
+        text-decoration: none;
+        position: relative;
+        left: 240px;
+        top: -99px;
+        font-size: 25px;
+        color: white;
+    }
+    a:hover{
+        text-decoration-line: underline;
+    }
+    .all{
+       background-color: rgba(0, 0, 0, 0.767);
+       color: black; 
+       width: 500px;
+       height: 600px;
+       position: relative;
+       left: 100px;
+       top: 20px;
+       border-radius: 5px;
+    }
+    h4{
+        color: rgba(255, 255, 255, 0.418);
+        font-size:18px ;
+        position: relative;
+        top: -70px;
+        left: 50px;
+    }
+    .learn{
+        font-size: 17px;
+        color: blue;
+        position: relative;
+        left: 240px;
+        top: -113px;
+    }
+    footer{
+        background-color: rgba(0, 0, 0, 0.719);
+        color: rgba(0, 0, 0, 0.719);
+        width: 1350px;
+        height: 40%;
+        margin-top: 150px;
+        margin-bottom: 0px;
+        padding: 0px;
+        position: relative;
+        top: -70px;
+        right: 10px;
+    }
+    .general{
+        font-size: 12px;
+        color: rgba(255, 255, 255, 0.527);
+        padding: 50px;
+        margin: 0px;
+        position: relative;
+        right: 20px;
+        top: 20px;
+    }
+    #question{
+        position: relative;
+        right: 50px;
+        padding: 0px;
+        font-size: 16px;
+    }
+    #faq{
+        position: relative;
+        top: 50px;
+        padding: 50px;
+    }
+    #help{
+        position: relative;
+        padding:100px;
+    }
+    #terms{
+        position: relative;
+        padding: 0px;
+    }
+    #privacy{
+        position: relative;
+        padding: 100px;
+    }
+    #cookie{
+        position: relative;
+        padding: 0px;
+    }
+    #corporate{
+        position: relative;
+        padding: 50px;
+    }
+    
+}
+        
+
+
+@media only screen and (min-width:1000px) {
+    .netflix{
+    width: 12%;
+    position: relative;
+    bottom: 70px;
+    right: 150px;
+}
+.butt{
+    border: none;
+    width:300px;
+    padding: 13px;
+    margin: 10px;
+    background-color: red;
+    border-radius: 5px;
+    position:relative;
+    left: 58px;
+    top: 90px;
+}
+.submit{
+    border: none;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
+body{
+    background-image: url('NG-en-20220801-popsignuptwoweeks-perspective_alpha_website_medium.jpg');  
+    background-blend-mode: darken rgba(0, 0, 0, );
+}
+form{
+    background-color: black;
+    position: relative;
+    top: 0px;
+}
+.signin{
+   font-family: arial black;
+   color: white;
+   position: relative;
+   left: 40px;
+   top: 70px;
+}
+.phone{
+    padding: 15px;
+    margin: 10px;
+    width:300px;
+    position:relative;
+    left: 58px;
+    top: 70px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(128, 128, 128, 0.445);
+}
+.password{
+    padding: 15px;
+    margin: 10px;
+    width:300px;
+    position:relative;
+    left: 58px;
+    top: 70px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(128, 128, 128, 0.445);
+}
+.checkbox{
+    background-color: white;
+
+}
+h6{
+    width: 80px;
+    color: rgba(255, 255, 255, 0.527);
+    font-size: 15px;
+    position: relative;
+    left: 290px;
+    top: 40px;
+}
+.remember{
+    color: rgba(230, 225, 225, 0.521);
+    position:relative;
+    left: 70px;
+    top: 90px;
+}
+h5{
+    width: 300px;
+    position: relative;
+    left: 100px;
+    top:100px;
+    color:white;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.527);
+
+}
+a{
+    text-decoration: none;
+    position: relative;
+    left: 221px;
+    top: 47px;
+    font-size: 20px;
+    color: white;
+}
+a:hover{
+    text-decoration-line: underline;
+}
+.all{
+   background-color: rgba(0, 0, 0, 0.767);
+   color: black; 
+   width: 450px;
+   height: 600px;
+   position: relative;
+   left: 440px;
+   top: 100px;
+   border-radius: 5px;
+}
+h4{
+    color: white;
+    font-size:12px ;
+    position: relative;
+    top: 60px;
+    left: 98px;
+}
+.learn{
+    font-size: 13px;
+    color: blue;
+    position: relative;
+    right: 97px;
+    top: 29px;
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.719);
+    color: rgba(0, 0, 0, 0.719);
+    width: 1350px;
+    height: 40%;
+    margin-top: 150px;
+    margin-bottom: 0px;
+    padding: 0px;
+    position: relative;
+    top: 10px;
+}
+.general{
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.527);
+    padding: 50px;
+    margin: 50px;
+}
+#question{
+    position: relative;
+    right: 50px;
+    padding: 0px;
+    font-size: 16px;
+}
+#faq{
+    position: relative;
+    top: 50px;
+    padding: 50px;
+}
+#help{
+    position: relative;
+    padding:100px;
+}
+#terms{
+    position: relative;
+    padding: 0px;
+}
+#privacy{
+    position: relative;
+    padding: 100px;
+}
+#cookie{
+    position: relative;
+    padding: 0px;
+}
+#corporate{
+    position: relative;
+    padding: 50px;
+}
+
+}
